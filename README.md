@@ -16,3 +16,4 @@ Aplikasi toko online berbasis web menggunakan framework CodeIgniter 3
 |:-------------:|:-----------------:|:-------------:|
 | Administrator | admin@admin.com  	| admin@cishop	|
 | Member        | member@member.com	| member@cishop	|
+# Repositori-Baru
